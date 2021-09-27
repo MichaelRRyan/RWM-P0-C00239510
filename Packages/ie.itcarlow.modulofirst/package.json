@@ -1,0 +1,7 @@
+{
+	"name": "ie.itcarlow.modulofirst",
+	"version": "0.1.0",
+	"displayName": "ModuloFirst",
+	"description": "A filter that replaces each number in a list by itself modulo the first number of the list",
+	"unity": "2020.3"
+}
